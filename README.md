@@ -78,7 +78,7 @@
 
 ---
 
-# Claude Code Çalışma Kurallarının TÜRKÇE Açıklamaları aşağıda
+# Claude Code Çalışma Kurallarının TÜRKÇE Açıklamaları
 
 ## 1. Kaynaklar ve öncelik
 - Kurallar şuralardan gelir: genel talimat dosyası, prod kalite kuralları, deponun kendi kural dosyaları, kalıcı hafıza ve açık çıktı modları.
